@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wojciech Kaczmarek rurza_to_nic@o2.pl @EpicLooser
 
 # THANKS
 
